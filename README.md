@@ -5,7 +5,7 @@ addetti usa l'intelligenza artificiale. Fra quelle che ci hanno pensato e poi
 hanno rinunciato, quasi sei su dieci indicano lo stesso ostacolo: **mancano le
 competenze**.
 
-Qui ci sono quattro esempi concreti di come l'AI entra nel lavoro di tutti i
+Qui ci sono cinque esempi concreti di come l'AI entra nel lavoro di tutti i
 giorni di uno studio. Non sono chatbot: sono lavori ripetitivi automatizzati,
 dove **l'AI prepara e una persona dello studio verifica e decide**. Ogni esempio
 gira su dati di fantasia, ha un video di un minuto e si può provare senza
@@ -39,6 +39,14 @@ di routine.
 foto), verifica la quadratura con i saldi della banca e classifica i movimenti.
 
 [![Estratti conto in prima nota](https://raw.githubusercontent.com/gabrymark06-max/estratti-conto/main/docs/anteprima.gif)](https://github.com/gabrymark06-max/estratti-conto)
+
+### [Previsione del carico di lavoro](https://github.com/gabrymark06-max/previsione-carico-lavoro)
+**Per tutti gli studi.** Dal registro delle pratiche prevede quante ne
+arriveranno nelle prossime nove settimane, area per area, e segnala quelle sopra
+le forze dello studio. Gira sul computer dello studio, senza mandare i dati a
+nessuno.
+
+[![Previsione del carico di lavoro](https://raw.githubusercontent.com/gabrymark06-max/previsione-carico-lavoro/main/docs/anteprima.gif)](https://github.com/gabrymark06-max/previsione-carico-lavoro)
 
 ---
 
